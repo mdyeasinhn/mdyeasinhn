@@ -39,7 +39,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mdyeasinhn&" alt="mdyeasinhn" /></p>
 
-## 📬 Contact Me
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mdyeasinhn)](https://www.linkedin.com/in/mdyeasinhn)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mdyeasinhn@gmail.com)](mailto:mdyeasinhn@gmail.com)
