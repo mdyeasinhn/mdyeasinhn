@@ -21,7 +21,7 @@
 <h4 align="left">A passionate frontend developer from Bangladesh</h4>
 
 
-- 📚 I'm currently learning **Typescript and Nextjs**
+- 📚 I'm currently learning **Typescript Nextjs and Redux**
 - ⚡ Fun fact: **Can wrestle a bug in Javascript, but CSS makes me cry.**
 
 ###
