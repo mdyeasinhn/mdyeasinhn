@@ -13,10 +13,11 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m a passionate **Frontend Developer** from **Bangladesh**
-- 📚 Currently learning **TypeScript, Next.js, and Redux**
-- 🧠 Exploring **Prisma, PostgreSQL, and advanced backend integration**
-- ⚡ Fun fact: *I can wrestle a bug in JavaScript, but CSS makes me cry sometimes 😂*
+- 🎯 Focused on **building interactive and responsive web apps**
+- 🌱 Currently learning **TypeScript, Next.js, and Redux Toolkit**
+- ⚙️ Working with **MongoDB, PostgreSQL, Prisma, and Firebase**
+- 💬 Ask me about **React, Node.js, or REST APIs**
+- 🤹 Fun fact: *Debugging is like being a detective in a crime movie where you are also the murderer*
 
 ---
 
