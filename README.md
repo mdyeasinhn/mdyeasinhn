@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Yeasin Arafat</h1>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Yeasin+Arafat;" />
+</h1>
 <div align="center">
   <img src="https://i.ibb.co/Mk7xf2nz/Md-Yeasin-Arafat.png" alt="Profile Banner">
 </div>
